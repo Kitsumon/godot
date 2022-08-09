@@ -1,9 +1,0 @@
-*.o
-*.lib
-*.a
-*.dylib
-__pycache__
-.vscode
-
-*.obj
-*.bc
